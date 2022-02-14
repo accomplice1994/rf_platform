@@ -3,3 +3,5 @@ iasd
 123
 mm1.txt
 qwerasdfzxcv
+git add .
+git commit -m
