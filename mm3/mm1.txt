@@ -5,3 +5,4 @@ mm1.txt
 qwerasdfzxcv
 git add .
 git commit -m
+git abort
